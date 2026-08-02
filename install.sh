@@ -48,5 +48,5 @@ pip3 install psutil --break-system-packages 2>/dev/null || pip install psutil 2>
 
 echo "=============================================================================="
 echo "[+] INSTALLATION COMPLETE!"
-echo "[+] You can now launch the suite by running: sudo python3 src/irs_app.py"
+echo "[+] You can now launch the suite by running: sudo python3 irs.py"
 echo "=============================================================================="
