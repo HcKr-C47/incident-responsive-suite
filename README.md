@@ -18,3 +18,5 @@ This suite is built to empower sysadmins, defenders, and everyday users to activ
 ```bash
 git clone https://github.com/HcKr-C47/incident-responsive-suite.git
 cd incident-responsive-suite
+pip install -r requirements.txt
+sudo python3 irs.py
